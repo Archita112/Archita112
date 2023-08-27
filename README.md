@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=archita112" alt="archita112" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@growuparchita" target="blank"><img src="https://img.shields.io/twitter/follow/@growuparchita?logo=twitter&style=for-the-badge" alt="@growuparchita" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@growuparchita" target="blank"><img src="https://img.shields.io/twitter/follow/@growuparchita?logo=twitter&style=for-the-badge" alt="growuparchita" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
